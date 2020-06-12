@@ -26,6 +26,19 @@ From the "Diary Index" (https://diaryindex.com/digitized-diaries/) provided, I h
 
 Much like the reading we did for this week, I think my main goal will be to download her diary (either the images or the already inscripted text available), clean the text up and then analyze and interpret it using various tools to see if there are any patterns that can be visualized. 
 
-** Step 1: Downloading the Text**
+**Step 1: Downloading the Text**
+
+- I was having difficulty at the beginning and getting a whole bunch of error messages, but after refering back to my week one notes, I realize now that the "wget.exe" file needs to be in the directory that I am downloading things into. I am hoping this works...
+- An improvement... It did download but not how I wanted it to... I think it has something to do with the URL. I will try something else.
+- Its odd, I felt I followed the steps but no matter what I did it seems to not download the individual images but made an index page of sorts? I have attached pictures of my attempts.
+
+**This is the link of the first journal page/what I assumed was directory:**
+
+![issue](https://github.com/Elissap5100/Week-Six-Work/blob/master/Wget%20Issue/IssueA.PNG)
+
+**This is the code I used to (unsuccessfully) download the images:**
+
+![issue](https://github.com/Elissap5100/Week-Six-Work/blob/master/Wget%20Issue/IssueB.PNG)
+
 
 You will share your results using an appropriate technique you encountered in week 5. Other possibilities are ok too; just check with Dr. Graham first. Remember, you don’t have a lot of time, so keep your ambitions in check: the perfect is the enemy of the good.
