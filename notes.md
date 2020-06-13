@@ -95,5 +95,36 @@ Most frequent words in the corpus: 1942 (330); tom (216); annie (100); don (86);
 ![CloudB](https://github.com/Elissap5100/Week-Six-Work/blob/master/Voyant%20Findings/Tommove2.PNG)
 
 - Overall, I am happy with what Voyant has taught me about this text, as well as introducing me to a plan I can hopefully move forward in for the next part of this assignment. It allowed me to analyze topics that appeared more heavily than others and learn more about what was important to Claire.
+- Once I pinpoint the various places he goes, I may be able to use this tool to highlight when exactly he goes from place to place!
 
-You will share your results using an appropriate technique you encountered in week 5. Other possibilities are ok too; just check with Dr. Graham first. Remember, you don’t have a lot of time, so keep your ambitions in check: the perfect is the enemy of the good.
+## Step 4: Topic Modeling with the TMTool
+- Honestly I was just overall curious to see if this would work with one massive text files, and not many. Technically, that one text files has many different entries that if organized could be turned into many different files and place in its on directory. I want to see if it still pulls topics from the text file like it is now.
+-It was not working with just one, so I attmpted doing the process with the original txt file as well, but the results were seemingly unusable. I think this technique is more for large scale sets of data, not a single and sparingly filled out journal.
+- In what little I did understand from analyzing the results, there were a lot of names (mainly annie and Tom) jumbled in the data that reccured alot. There was mention of "letter" as well. This leads me to believe my assumptions are based somewhat on fact that Claire really cared about her family.
+- As usual, all created files will be in the repository in the folder labelled "tmt output"
+
+## Step 5: Text Analysis with Antconc
+-This last attempt to analyze the data is more of a leap in the dark to see if 
+        - A: It will even work (might have the same problem as last step and'
+        - B: If my findings line up with the Voyant step
+- Fortunately, this tool seemingly worked much better than the last one. I used to again explore the data, or diary entries and see when certain names or topics appear in what context.
+
+![Wordlist](https://github.com/Elissap5100/Week-Six-Work/blob/master/New%20folder/antA.PNG)
+
+- To kick start my plan a small bit, I outputted a file of all the times "letter" was used in her diary. From there, I belive I can more eaily track Tom's movement with the military by simply "ctrl + find-ig" all the letters and ready what they say. By my estimate there is over 30 of them.
+
+Here is instances of just the word "letter":
+
+![Letter](https://github.com/Elissap5100/Week-Six-Work/blob/master/New%20folder/letters.PNG)
+
+Here are the instances of letter from Tom:
+
+![TomLetters](https://github.com/Elissap5100/Week-Six-Work/blob/master/New%20folder/FromTom.PNG)
+
+
+![TomLetters](https://github.com/Elissap5100/Week-Six-Work/blob/master/New%20folder/tomlines.PNG)
+
+- All files are in the repository in the folder called "New Folder". (An unfortunate name that I could not figure out how to change through github)
+
+### How will I display the data I found?    
+**Instructions:** You will share your results using an appropriate technique you encountered in week 5. Other possibilities are ok too; just check with Dr. Graham first. Remember, you don’t have a lot of time, so keep your ambitions in check: the perfect is the enemy of the good.
