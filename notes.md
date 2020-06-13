@@ -128,3 +128,6 @@ Here are the instances of letter from Tom:
 
 ### How will I display the data I found?    
 **Instructions:** You will share your results using an appropriate technique you encountered in week 5. Other possibilities are ok too; just check with Dr. Graham first. Remember, you don’t have a lot of time, so keep your ambitions in check: the perfect is the enemy of the good.
+
+- As I have mentioned throughout the first part of this project, I wish to make a story map recounting where To moved during his deploymment in 1942. Each new spot I will include an image (if I can find a good one), the date, the text from the letter and ofcourse the location. I think It will be an interesting Narrative to come from Claire's journal.
+- A major concern of mine is discovering who Tom was exactly to claire because I seem to not know as of right now. I suspect her husband but I am not completely sure. I am hoping through exploration of these letters I will learn more.
