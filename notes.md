@@ -70,12 +70,30 @@ Much like the reading we did for this week, I think my main goal will be to down
 ```
 Most frequent words in the corpus: 1942 (330); tom (216); annie (100); don (86); evening (78)
 ```
+
+![CloudA](https://github.com/Elissap5100/Week-Six-Work/blob/master/Voyant%20Findings/CommonWords.PNG)
+
 - Here is the unflitered word cloud:
 
-![CloudA](https://github.com/Elissap5100/Week-Six-Work/blob/master/Wget%20Issue/IssueB.PNG)
+![CloudA](https://github.com/Elissap5100/Week-Six-Work/blob/master/Voyant%20Findings/A1.PNG)
 
+- After playing around with the various filters and exploring the different contexts in which each of the names are used in I fel confident about the following statements:
+    - Tom is Claire's husband or brother( I am honestly unsure), who is in the army and leaves once or twice for training. Although he seems to stay in contact through letters to their family.
+    - Ruth is mentioned often but I am unsure her role. Perhaps a simple friend? or maybe Tom's wife?
+    - Annie is Claire's sister who she lives with
+    - Don is Claire's brother, an optometrist, who she worked as an assistant for
+    
+- After further analysis of the entries I found there was no explicit them really, but Claire was a woman with deep connections and care for her friends and family, especially Tom, who are in her life. 
+- Everytime I would move things or take out works or filter the data, it seems names, such as Tom, annie, Bill, Don and more would always be the most prevalent topics in her texts. 
 
-<iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=eb2a78c86e75abebd4133a668615f581'></iframe>
+![CloudB](https://github.com/Elissap5100/Week-Six-Work/blob/master/Voyant%20Findings/B1.PNG)
 
+- I am unsure if it can be done easily, but Tom often wrote letters to Claire about his movements and where he would be placed within the military. For the ext part of this project, I may attempt a story map documenting his movement. This following screenshot shares moments from when he would send letters to claire, typically which included where he was at that point and time:
+
+![CloudB](https://github.com/Elissap5100/Week-Six-Work/blob/master/Voyant%20Findings/Tommove1.PNG)
+
+![CloudB](https://github.com/Elissap5100/Week-Six-Work/blob/master/Voyant%20Findings/Tommove2.PNG)
+
+- Overall, I am happy with what Voyant has taught me about this text, as well as introducing me to a plan I can hopefully move forward in for the next part of this assignment. It allowed me to analyze topics that appeared more heavily than others and learn more about what was important to Claire.
 
 You will share your results using an appropriate technique you encountered in week 5. Other possibilities are ok too; just check with Dr. Graham first. Remember, you don’t have a lot of time, so keep your ambitions in check: the perfect is the enemy of the good.
