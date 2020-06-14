@@ -130,4 +130,45 @@ Here are the instances of letter from Tom:
 **Instructions:** You will share your results using an appropriate technique you encountered in week 5. Other possibilities are ok too; just check with Dr. Graham first. Remember, you don’t have a lot of time, so keep your ambitions in check: the perfect is the enemy of the good.
 
 - As I have mentioned throughout the first part of this project, I wish to make a story map recounting where To moved during his deploymment in 1942. Each new spot I will include an image (if I can find a good one), the date, the text from the letter and ofcourse the location. I think It will be an interesting Narrative to come from Claire's journal.
-- A major concern of mine is discovering who Tom was exactly to claire because I seem to not know as of right now. I suspect her husband but I am not completely sure. I am hoping through exploration of these letters I will learn more.
+- A major concern of mine is discovering who Tom was exactly to Claire because I seem to not know as of right now. I suspect he is her husband but I am not completely sure. I am hoping through exploration of these letters I will learn more.
+
+**Update:** Through further investigation of the diary, I have determined that Tom is Claire Paine's brother and I belive Ruth is Tom's wife who is good friends with Claire and her sister Annie. I realize this is an assuption but there are many factors that indicate this may be correct. The following line was a good indicator of their relationship (plus no mention of anything more than platonic care for him from Claire's perspective):
+
+```
+After lunch shopped around – Annie bought a new dress, blue with white stripes – Claire a new hat, dusty rose shade made of bands of ribbon – Tom went home to sleep, he was tired – It seemed so good to have Tom with us, He’s still very fond of home and Mother.
+
+Tom loves our home & our yard, I think sometimes he is a little homesick for his boyhood home & big lawn
+```
+It is now confirmed, Tom is Married to Ruth and I can only assume he is Claire's brother:
+```
+July 31 1942 Fri:  Tom & Ruths 3rd wedding anniversary.
+```
+
+I stand corrected, I believe Tom is her Nephew?
+```
+October 291942 Thur:  Another letter from Tom.  Its nice to have a fine nephew like Tom.  A fine young man – Two Capitals & the money belt were rec’d by him & he was so pleased – His work friend at Douglass Plant in California has gone into service with his son.
+```
+
+The following text I thought was cool (Go Canada!):
+```
+At 8:30 we listened to “Cheers from the Camp” from Camp Borden in Canada – Its sponsored thru Genl Motors by the Canadian & Amer. Governments – Its closing song was “God Bless America-“ Canada is so sincere, so determined & courageous – fine bunch of boys there.
+```
+**Here is my Thought Process in Creating the Story Map:**
+There are many letters to and from Tom so I have decided to call this "Letters of Tom" (1942). I wish I had the ability to learn more of these two people, but due to time restraints I do not. I have just put together an organized list of sorts of all the letters to and from Tom from Claire Eva Paine's perspective in 1942. There is not too much detail in each letter but some do offer information of where he is and what he is doing at the Time. For the purpose of a story map (and the fact that I am missing pictures/videos/media to attach to some moments) I am thinking of only including the messages where he moves somewhere or something happens. If I can not find a relatable historical piece of media, I will attach the image of her journal entry to that point. 
+
+**Here are some links I accessed when creating my Story Map and finding ressources to display:**
+- https://millercenter.org/the-presidency/presidential-speeches/february-23-1942-fireside-chat-20-progress-war
+- https://web.archive.org/web/20090210105312/http://nrhs.com/archives/rea.htm
+- http://loc.gov/pictures/resource/cph.3c27693/
+- http://docs.fdrlibrary.marist.edu:8000/BROWSE.cgi?db=2&pos=450&inc=50
+- https://www.latimes.com/visuals/photography/la-me-fw-archives-southern-california-world-war-ii-aircraft-manufacturing-20180730-htmlstory.html
+- https://hslb.org/product/ocean-blvd-1930/
+- https://www.archives.gov/news/articles/merchant-marine-records-document-maritime-service
+- https://hslb.org/wp-content/uploads/2014/01/R0056-P-5028-1930-Ocean-Blvd1.jpg
+- https://www.ibiblio.org/hyperwar/USN/ref/USN-Act/VA.html
+- http://www.boeing.com/companyoffices/gallery/C8AB-RedBarn.html
+-https://www.history.navy.mil/our-collections/photography/wars-and-events/world-war-ii/pearl-harbor-raid/post-attack-ship-salvage/general-views/NH-64303.html
+- https://1940census.archives.gov/search/?search.census_year=1940&search.city=Long%20Beach&search.county=&search.enumeration_district=59-1&search.page=1&search.range_end=59-144&search.range_start=59-1&search.related_type=map&search.result_type=map&search.state=CA#city=long-beach&county=los-angeles-county
+- http://www.usmm.org/trainingship.html
+- http://www.usmm.org/postertrain2a.html
+- 
