@@ -181,4 +181,16 @@ There are many letters to and from Tom so I have decided to call this "Letters o
 - https://seabeemagazine.navylive.dodlive.mil/2014/11/26/harbor-base-neighbors-when-the-navy-came-to-port-hueneme-1942-1945-and-beyond/
 - http://hamptonroadsnavalmuseum.blogspot.com/search/label/Camp%20Bradford
 
+# The Final Product
+
+**Disclaimer:** I am unsure what exacly I am doing wrong, but no matter what I do the Stay map HTML embed function in not working. I will leave the code for it below, but in any case the simple sharing Link is also located below. Al files used in the final product will be in the repository in a folder called "Story Map".
+
+Although I did quite a thourough recount of how this final project came to be, I will break it down in (hopefully) much less words in my week 6 journal post.
+
+Embed Link:
+
 <iframe src="https://uploads.knightlab.com/storymapjs/06af2dd60026226f1e0a9ea7326aac8d/letters-of-tom/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+Sharing Link:
+
+https://uploads.knightlab.com/storymapjs/06af2dd60026226f1e0a9ea7326aac8d/letters-of-tom/index.html
