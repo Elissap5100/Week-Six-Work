@@ -171,4 +171,14 @@ There are many letters to and from Tom so I have decided to call this "Letters o
 - https://1940census.archives.gov/search/?search.census_year=1940&search.city=Long%20Beach&search.county=&search.enumeration_district=59-1&search.page=1&search.range_end=59-144&search.range_start=59-1&search.related_type=map&search.result_type=map&search.state=CA#city=long-beach&county=los-angeles-county
 - http://www.usmm.org/trainingship.html
 - http://www.usmm.org/postertrain2a.html
-- 
+- http://hamptonroadsnavalmuseum.blogspot.com/2015/08/remembering-project-much-bigger-than.html
+- https://en.wikipedia.org/wiki/Valley_Forge
+- https://www.unionstation.org/timeline
+- https://www.chicagorailfan.com/stbckcy.html
+- http://mdh.contentdm.oclc.org/cdm/landingpage/collection/kcpltax
+-https://www.history.navy.mil/browse-by-topic/heritage/uniforms-and-personal-equipment/uniforms-1942-1943.html
+- https://www.portofhueneme.org/about/port-history/
+- https://seabeemagazine.navylive.dodlive.mil/2014/11/26/harbor-base-neighbors-when-the-navy-came-to-port-hueneme-1942-1945-and-beyond/
+- http://hamptonroadsnavalmuseum.blogspot.com/search/label/Camp%20Bradford
+
+<iframe src="https://uploads.knightlab.com/storymapjs/06af2dd60026226f1e0a9ea7326aac8d/letters-of-tom/index.html" frameborder="0" width="100%" height="800"></iframe>
